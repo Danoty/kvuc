@@ -1,0 +1,1 @@
+Extract this ZIP. Upload all extracted files together to the root of the kvuc repository. Keep index.html, style.css, app.js, logo, portrait and PDF side by side. Commit the files and allow GitHub Pages to redeploy. Then refresh with Ctrl+F5. This package uses flat paths to match browser uploads. The site remains an unapproved review prototype.
